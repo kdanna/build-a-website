@@ -1,0 +1,33 @@
+.header{
+	font-family: Verdana, sans-serif;
+	border: 1px solid black;
+	background-color: #53777A;
+	text-align: center;
+	height: auto;
+	color: white;
+	padding: 5px;
+}
+
+.link{
+	text-align: center
+	height:auto;
+	width:120px;
+	display: block;
+	background: tomato;
+	margin-bottom: 5px;
+	border: black solid 2px;
+}
+
+.jobs{
+	font-size: 15px;
+	width:auto;
+	display:inline-block; 
+	}
+
+.footer{
+	clear: both;
+	text-align: center;
+	background-color: #53777A;
+	color:white;
+}
+
